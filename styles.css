@@ -44,6 +44,8 @@
 
 }
 
+/* Media Queries */
+/* For screens larger than 1200px */
 @media (min-width: 1200px) {
     .wrapper {
         width: 1210px;
