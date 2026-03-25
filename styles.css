@@ -10,7 +10,7 @@
 
 .wrapper {
 
-    width: 933px;
+    width: 910px;
 
     height: 800px;
 
@@ -42,4 +42,14 @@
 
     background-color: orange;
 
+}
+
+@media (min-width: 1200px) {
+    .wrapper {
+        width: 1210px;
+    }
+
+    .column {
+        width: 400px;
+    }
 }
